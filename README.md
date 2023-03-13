@@ -1,6 +1,6 @@
 # Save Chrome Tabs
 
-![Save Chrome Tabs](./.images/small-promo-tile.jpg)
+![Save Chrome Tabs](./.images/small-promo-tile.v1.440x280.jpg)
 
 Save your Chrome tabs for later, and avoid the need to bookmark unwanted pages anymore 😁.
 
