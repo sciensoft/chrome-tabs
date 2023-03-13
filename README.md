@@ -1,5 +1,7 @@
 # Save Chrome Tabs
 
+![Save Chrome Tabs](./.images/small-promo-tile.jpg)
+
 Save your Chrome tabs for later, and avoid the need to bookmark unwanted pages anymore 😁.
 
 Save Chrome Tabs allows you to save and organize all your windows and tabs in a single place. You can save unlimited tabs groups free of charge, and it's ad-free. It also synchronizes all your saved tabs groups with other devices.
