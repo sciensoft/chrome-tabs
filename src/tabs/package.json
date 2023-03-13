@@ -1,0 +1,28 @@
+{
+    "name": "sciensoft.dev",
+    "version": "1.0.0",
+    "description": "Chrome extension to save your tabs for later, and avoid the need to bookmark unwanted pages anymore 😁.",
+    "author": "@AlexzSouz",
+    "scripts": {
+        "clean": "rimraf node_modules",
+        "build": "cross-env NODE_ENV=production webpack",
+        "watch": "webpack --watch --progress --mode production"
+    },
+    "dependencies": {
+        "solid-js": "^1.6.14"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.21.0",
+        "@babel/plugin-syntax-jsx": "^7.18.6",
+        "@babel/preset-env": "^7.20.2",
+        "babel-loader": "8.0.6",
+        "babel-preset-solid": "^1.6.13",
+        "cross-env": "^7.0.3",
+        "css-loader": "^5.2.7",
+        "rimraf": "3.0.2",
+        "sass-loader": "^10.1.1",
+        "style-loader": "^2.0.0",
+        "webpack": "^5.76.1",
+        "webpack-cli": "^5.0.1"
+    }
+}

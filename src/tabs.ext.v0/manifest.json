@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Save Chrome Tabs",
+  "description": "Save your Chrome tabs for later, and avoid the need to bookmark unwanted pages anymore 😁.",
+  "version": "1.0",
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "host_permissions": [
+    "*://*.sciensoft.dev/*",
+    "*://*.techmeout.io/*",
+    "*://*/*"
+  ],
+  "action": {
+    "default_popup": "popup/default.html",
+    "default_icon": "images/icon-16.png"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "scripts/content.js"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    }
+  ],
+  "permissions": [
+    "tabs",
+    "unlimitedStorage",
+    "storage"
+  ]
+}
