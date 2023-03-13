@@ -23,5 +23,5 @@ A piece of good advice to starting contributing is helping me out with existing 
 **Do you have questions about the source code?**
 
 - Ask any question about how to use or contribute to Sciensoft.Hateoas in the [sciensoft-hateoas-talk](
-https://groups.google.com/d/forum/sciensoft-hateoas-talk
+<https://groups.google.com/d/forum/sciensoft-hateoas-talk>
 ) mailing list.
